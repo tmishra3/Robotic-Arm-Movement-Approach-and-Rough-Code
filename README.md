@@ -1,4 +1,4 @@
-# Robotic-Arm-Movement
+# Robotic-Arm-Movement Approach and Rough Code
 Given input from sensors and a finalized (x,y,z) coordinate, move a robotic arm with 3 moving joints from its initial position to the finalized position.
 
 Code included is an older version as newer version is not with me on this particular computer.
